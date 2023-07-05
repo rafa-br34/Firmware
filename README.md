@@ -1,0 +1,2 @@
+Please note that the firmware files present in this repository are not in any way made by me.
+These files only are uploaded for archiving/educational purposes and should NOT be used on actual devices or production environments. I'm not responsible for any damage caused by the improper use.
